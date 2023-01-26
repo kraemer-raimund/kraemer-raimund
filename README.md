@@ -1,9 +1,8 @@
 **I help developers :woman_office_worker::computer::man_office_worker: create better software :mag: more predictably :compass: with less stress :balance_scale:.**
 
-* Software Craftsmanship
-* TDD
 * Refactoring
 * Clean Code
+* Evolutionary Design and TDD
 * Continuous Integration
 * Git
 * ...
