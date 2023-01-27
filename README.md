@@ -5,7 +5,7 @@
 * Evolutionary Design and TDD
 * Continuous Integration
 * Git
-* Game Development and 3D Modeling
+* Game Development and 3D Modeling/Animation
 
 ### Practice your skills with my coding katas
 
