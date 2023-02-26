@@ -12,6 +12,7 @@
 * [ISBN Kata](https://github.com/kraemer-raimund/isbn-kata): A coding kata that focuses on design and TDD.
 * [Chess Kata](https://github.com/kraemer-raimund/chess-kata): A coding kata that focuses on applying TDD in an existing (unit-tested) code base.
 * [Mars Rover Kata](https://github.com/kraemer-raimund/mars-rover-kata): A coding kata that focuses on evolutionary design.
+* [Evolutionary Fizz Buzz Kata](https://github.com/kraemer-raimund/fizz-buzz): An evolutionary coding kata where the requirements are revealed incrementally.
 * [Temperature Kata](https://github.com/kraemer-raimund/temperature-kata): A coding kata that focuses on encapsulation and simple design.
 * [Tax ID Kata](https://github.com/kraemer-raimund/tax-id-kata): A coding kata that focuses on encapsulation and domain-driven design.
 * [Data Size Kata](https://github.com/kraemer-raimund/data-size-kata): A coding kata that focuses on domain-driven design, encapsulation, and reducing primitive obsession.
