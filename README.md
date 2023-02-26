@@ -9,12 +9,10 @@
 
 ### Practice your skills with my coding katas
 
-* [ISBN Kata](https://github.com/kraemer-raimund/isbn-kata): A coding kata that focuses on design and TDD.
-* [Chess Kata](https://github.com/kraemer-raimund/chess-kata): A coding kata that focuses on applying TDD in an existing (unit-tested) code base.
-* [Mars Rover Kata](https://github.com/kraemer-raimund/mars-rover-kata): A coding kata that focuses on evolutionary design.
-* [Evolutionary Fizz Buzz Kata](https://github.com/kraemer-raimund/fizz-buzz): An evolutionary coding kata where the requirements are revealed incrementally.
-* [Temperature Kata](https://github.com/kraemer-raimund/temperature-kata): A coding kata that focuses on encapsulation and simple design.
-* [Tax ID Kata](https://github.com/kraemer-raimund/tax-id-kata): A coding kata that focuses on encapsulation and domain-driven design.
-* [Data Size Kata](https://github.com/kraemer-raimund/data-size-kata): A coding kata that focuses on domain-driven design, encapsulation, and reducing primitive obsession.
-* [Roman Numerals Kata](https://github.com/kraemer-raimund/roman-numerals-kata): A coding kata that focuses on design and TDD.
-* [Word Wrap Kata](https://github.com/kraemer-raimund/word-wrap-kata): A coding kata that focuses on breaking down a tricky problem into bite-sized simpler problems. Inspired by Robert C. Martin. 
+| | |
+|:-------:|:------:|
+| [:satellite::space_invader: Mars Rover Kata](https://github.com/kraemer-raimund/mars-rover-kata)<br>A coding kata that focuses on evolutionary design. | [:black_large_square::white_large_square::chess_pawn: Chess Kata](https://github.com/kraemer-raimund/chess-kata)<br>A coding kata that focuses on applying TDD in an existing (unit-tested) code base. |
+| [:books::open_book: ISBN Kata](https://github.com/kraemer-raimund/isbn-kata)<br>A coding kata that focuses on design and TDD. | [:jigsaw: Evolutionary Fizz Buzz Kata](https://github.com/kraemer-raimund/evolutionary-fizz-buzz-kata)<br>An evolutionary coding kata where the requirements are revealed incrementally. |
+| [:thermometer: Temperature Kata](https://github.com/kraemer-raimund/temperature-kata)<br>A coding kata that focuses on encapsulation and simple design. | [:coin::receipt: Tax ID Kata](https://github.com/kraemer-raimund/tax-id-kata)<br>A coding kata that focuses on encapsulation and domain-driven design. |
+| [:floppy_disk::cd: Data Size Kata](https://github.com/kraemer-raimund/data-size-kata)<br>A coding kata that focuses on domain-driven design, encapsulation, and reducing primitive obsession. | [:classical_building::heavy_plus_sign: Roman Numerals Kata](https://github.com/kraemer-raimund/roman-numerals-kata)<br>A coding kata that focuses on design and TDD. |
+| [:page_facing_up::scroll: Word Wrap Kata](https://github.com/kraemer-raimund/word-wrap-kata)<br>A coding kata that focuses on breaking down a tricky problem into bite-sized simpler problems. Inspired by Robert C. Martin. |
