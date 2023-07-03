@@ -1,10 +1,8 @@
 **I help developers :woman_office_worker::computer::man_office_worker: create better software :mag: more predictably :compass: with less stress :balance_scale:.**
 
-* Refactoring
-* Clean Code
+* Refactoring and Clean Code
 * Evolutionary Design and TDD
-* Continuous Integration
-* Git
+* Git and Continuous Integration
 
 ### Practice your skills with my coding katas
 
