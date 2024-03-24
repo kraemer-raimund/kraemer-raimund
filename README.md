@@ -1,4 +1,4 @@
-### I help developers :woman_office_worker::computer::man_office_worker: create better software :mag: more predictably :compass: with less stress :balance_scale:.
+### I help developers 👩‍💼💻👨‍💼 create better software 🔎✨ more predictably 🧭🔮 with less stress ⚖️.
 
 * **Refactoring and Clean Code**
 * **Evolutionary Design and TDD**
