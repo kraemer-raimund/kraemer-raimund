@@ -1,6 +1,10 @@
 ### I help developers 👩‍💼💻👨‍💼 create better software 🔎✨ more predictably 🧭🔮 with less stress ⚖️.
 
-**Refactoring, clean code, TDD, Git, CI/CD**
+- **Refactoring**
+- **clean code**
+- **TDD**
+- **Git**
+- **CI/CD**
 
 _______
 
