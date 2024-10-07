@@ -16,3 +16,6 @@ _______
 | [📡👾 Mars Rover Kata](https://github.com/kraemer-raimund/mars-rover-kata)<br>An evolutionary coding kata where the requirements are revealed incrementally. | [✂️🧬 Intentional Git Kata](https://github.com/kraemer-raimund/intentional-git-kata)<br>Conquer the fear of Git! Build your intuition. Create new habits. Get confident in your workflows. |
 | [💾💿 Data Size Kata](https://github.com/kraemer-raimund/data-size-kata)<br>A coding kata that focuses on domain-driven design, encapsulation, and reducing primitive obsession. | [`XVII`🏛️ Roman Numerals Kata](https://github.com/kraemer-raimund/roman-numerals-kata)<br>A coding kata that focuses on design and TDD. |
 | [📄📜 Word Wrap Kata](https://github.com/kraemer-raimund/word-wrap-kata)<br>A coding kata that focuses on breaking down a tricky problem into bite-sized simpler problems. | [3️⃣5️⃣ Evolutionary Fizz Buzz Kata](https://github.com/kraemer-raimund/evolutionary-fizz-buzz-kata)<br>An evolutionary coding kata where the requirements are revealed incrementally. |
+| [💪🧠 IDE Muscle Memory Kata](https://github.com/kraemer-raimund/ide-muscle-memory-kata)<br>Build awareness and muscle memory for quick actions, IDE-supported refactorings and keyboard-based navigation in your IDE.  |  |
+
+https://github.com/kraemer-raimund/ide-muscle-memory-kata
