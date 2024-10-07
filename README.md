@@ -1,8 +1,6 @@
 ### I help developers 👩‍💼💻👨‍💼 create better software 🔎✨ more predictably 🧭🔮 with less stress ⚖️.
 
-* **Refactoring and Clean Code**
-* **Evolutionary Design and TDD**
-* **Git and Continuous Integration**
+**Refactoring, clean code, TDD, Git, CI/CD**
 
 _______
 
