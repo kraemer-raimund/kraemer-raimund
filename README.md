@@ -1,14 +1,12 @@
-### I help developers 👩‍💼💻👨‍💼 create better software 🔎✨ more predictably 🧭🔮 with less stress ⚖️.
+### I help developers continuously deliver value with higher quality and less stress.
 
-- **Refactoring**
-- **clean code**
-- **TDD**
-- **Git**
-- **CI/CD**
+I teach/coach individuals and teams in technical practices and skills like DevOps, CI/CD, refactoring, TDD, clean code, emergent design, and evolutionary architecture.
+
+I'm the creator of [Intentional Commits](https://intentionalcommits.org/) and [Git Fundamentals](https://git-fundamentals.org/).
 
 _______
 
-### Practice your skills with my coding katas
+### Improve your skills with my coding katas
 
 | | |
 |:-------:|:------:|
